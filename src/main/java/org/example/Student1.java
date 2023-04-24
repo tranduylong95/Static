@@ -10,4 +10,5 @@ public class Student1 {
     public void setClasses(String classes){
         this.classes=classes;
     }
+
 }
